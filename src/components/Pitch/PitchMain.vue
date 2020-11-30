@@ -1,6 +1,6 @@
 <template>
   <div class="pitchMain">
-    <b-container class="bv-example-row">
+    <b-container class="title">
         <b-col col="12">
             <h2 class="text-center col-12 mb-0">{{title}}</h2>
             <div class="dropdown-divider"></div>
@@ -31,4 +31,8 @@ export default {
   }
 }
 </script>
-
+<style>
+.title img{
+    height:100px;
+} 
+</style>

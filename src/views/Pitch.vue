@@ -1,7 +1,7 @@
 <template>
   <div class="pitch">
     <PitchSecondNav msg="resre"></PitchSecondNav>
-    <PitchMain headline="درسا" title="درسا" logo="/assets/logo.png"></PitchMain>
+    <PitchMain headline="درسا" title="درسا" logo="../img/logo.png"></PitchMain>
   </div>
 </template>
 
